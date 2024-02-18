@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="1000" height="800" viewBox="0 0 5000 4000">
+    <defs>
+        <polygon points="0,0 0,100 86.6,50 86.6,-50" id="SvgjsPolygon1000"></polygon>
+        <g id="SvgjsG1001">
+            <use href="#SvgjsPolygon1000" transform="matrix(-0.49999999999999983,-0.8660254037844387,0.8660254037844387,-0.49999999999999983,0,0)"></use>
+            <use href="#SvgjsPolygon1000" transform="matrix(1,0,0,1,0,0)"></use>
+            <use href="#SvgjsPolygon1000" transform="matrix(-0.49999999999999983,0.8660254037844387,-0.8660254037844387,-0.49999999999999983,0,0)"></use>
+        </g>
+        <use href="#SvgjsG1001" fill="pink" id="SvgjsUse1002"></use>
+        <use href="#SvgjsG1001" stroke-dasharray="1,3" transform="matrix(-4,4.898587196589413e-16,-4.898587196589413e-16,-4,4.041393711822807e-19,-299.9966999515986)" id="SvgjsUse1003"></use>
+        <g id="SvgjsG1004">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-173.20508,-100)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-100)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-50)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,0)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-200)"></use>
+        </g>
+        <g id="SvgjsG1005">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-173.20508,-200)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-150)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-150)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-100)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-250)"></use>
+        </g>
+        <g id="SvgjsG1006">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-300)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-400)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-600)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-550)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-500)"></use>
+        </g>
+        <g id="SvgjsG1007">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,259.80762000000004,-250)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,259.80762000000004,-350)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,173.20508,-500)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,259.80762000000004,-450)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,173.20508,-400)"></use>
+        </g>
+        <g id="SvgjsG1008">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-350)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-173.20508,-300)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-300)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-259.80762000000004,-450)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-173.20508,-400)"></use>
+        </g>
+        <g id="SvgjsG1009">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-300)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-250)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-200)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-150)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-350)"></use>
+        </g>
+        <g id="SvgjsG1010">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-450)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-450)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-400)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-350)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-350)"></use>
+        </g>
+        <g id="SvgjsG1011">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-173.20508,-200)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-259.80762000000004,-150)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-173.20508,-300)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-250)"></use>
+        </g>
+        <g id="SvgjsG1012">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-150)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,259.80762000000004,-150)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,173.20508,-100)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-50)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,173.20508,-200)"></use>
+        </g>
+        <g id="SvgjsG1013">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-259.80762000000004,-250)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-86.60254,-450)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-173.20508,-400)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-259.80762000000004,-350)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,-173.20508,-500)"></use>
+        </g>
+        <g id="SvgjsG1014">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,173.20508,-300)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-250)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-450)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,173.20508,-400)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-550)"></use>
+        </g>
+        <g id="SvgjsG1015">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-350)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,173.20508,-300)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-250)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-200)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-300)"></use>
+        </g>
+        <g id="SvgjsG1016">
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-250)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,173.20508,-200)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-400)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,86.60254,-350)"></use>
+            <use href="#SvgjsUse1002" transform="matrix(1,0,0,1,0,-500)"></use>
+        </g>
+    </defs>
+    <g fill="none" stroke="black">
+        <use href="#SvgjsUse1003" x="800" y="1000"></use>
+        <text font-size="60" x="800" y="1214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="800" svgjs:data="{&quot;newLined&quot;:true}">
+                0
+            </tspan>
+        </text>
+        <use href="#SvgjsG1004" x="800" y="1000"></use>
+        <use href="#SvgjsUse1003" x="1600" y="1000"></use>
+        <text font-size="60" x="1600" y="1214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="1600" svgjs:data="{&quot;newLined&quot;:true}">
+                1
+            </tspan>
+        </text>
+        <use href="#SvgjsG1005" x="1600" y="1000"></use>
+        <use href="#SvgjsUse1003" x="2400" y="1000"></use>
+        <text font-size="60" x="2400" y="1214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="2400" svgjs:data="{&quot;newLined&quot;:true}">
+                2
+            </tspan>
+        </text>
+        <use href="#SvgjsG1006" x="2400" y="1000"></use>
+        <use href="#SvgjsUse1003" x="3200" y="1000"></use>
+        <text font-size="60" x="3200" y="1214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="3200" svgjs:data="{&quot;newLined&quot;:true}">
+                3
+            </tspan>
+        </text>
+        <use href="#SvgjsG1007" x="3200" y="1000"></use>
+        <use href="#SvgjsUse1003" x="4000" y="1000"></use>
+        <text font-size="60" x="4000" y="1214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="4000" svgjs:data="{&quot;newLined&quot;:true}">
+                4
+            </tspan>
+        </text>
+        <use href="#SvgjsG1008" x="4000" y="1000"></use>
+        <use href="#SvgjsUse1003" x="800" y="2000"></use>
+        <text font-size="60" x="800" y="2214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="800" svgjs:data="{&quot;newLined&quot;:true}">
+                5
+            </tspan>
+        </text>
+        <use href="#SvgjsG1009" x="800" y="2000"></use>
+        <use href="#SvgjsUse1003" x="1600" y="2000"></use>
+        <text font-size="60" x="1600" y="2214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="1600" svgjs:data="{&quot;newLined&quot;:true}">
+                6
+            </tspan>
+        </text>
+        <use href="#SvgjsG1010" x="1600" y="2000"></use>
+        <use href="#SvgjsUse1003" x="2400" y="2000"></use>
+        <text font-size="60" x="2400" y="2214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="2400" svgjs:data="{&quot;newLined&quot;:true}">
+                7
+            </tspan>
+        </text>
+        <use href="#SvgjsG1011" x="2400" y="2000"></use>
+        <use href="#SvgjsUse1003" x="3200" y="2000"></use>
+        <text font-size="60" x="3200" y="2214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="3200" svgjs:data="{&quot;newLined&quot;:true}">
+                8
+            </tspan>
+        </text>
+        <use href="#SvgjsG1012" x="3200" y="2000"></use>
+        <use href="#SvgjsUse1003" x="4000" y="2000"></use>
+        <text font-size="60" x="4000" y="2214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="4000" svgjs:data="{&quot;newLined&quot;:true}">
+                9
+            </tspan>
+        </text>
+        <use href="#SvgjsG1013" x="4000" y="2000"></use>
+        <use href="#SvgjsUse1003" x="800" y="3000"></use>
+        <text font-size="60" x="800" y="3214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="800" svgjs:data="{&quot;newLined&quot;:true}">
+                10
+            </tspan>
+        </text>
+        <use href="#SvgjsG1014" x="800" y="3000"></use>
+        <use href="#SvgjsUse1003" x="1600" y="3000"></use>
+        <text font-size="60" x="1600" y="3214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="1600" svgjs:data="{&quot;newLined&quot;:true}">
+                11
+            </tspan>
+        </text>
+        <use href="#SvgjsG1015" x="1600" y="3000"></use>
+        <use href="#SvgjsUse1003" x="2400" y="3000"></use>
+        <text font-size="60" x="2400" y="3214.130859375" svgjs:data="{&quot;leading&quot;:&quot;1.3&quot;}">
+            <tspan dy="0" x="2400" svgjs:data="{&quot;newLined&quot;:true}">
+                12
+            </tspan>
+        </text>
+        <use href="#SvgjsG1016" x="2400" y="3000"></use>
+    </g>
+</svg>
