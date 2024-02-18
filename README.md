@@ -9,6 +9,7 @@ Scripts to find solutions to the [Bedlam Cube](https://en.wikipedia.org/wiki/Bed
 ## Running
 
 This script uses the [Bun javascript runtime](https://bun.sh/) 
+
 `bun run Bedlam.ts`
 
 ## Original
